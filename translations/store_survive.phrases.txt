@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"survive message"
+	{
+		"#format"			"{1:i},{2:i}"
+		"en"				"You have successfully earned {1} cash for survive {2} seconds in this round."
+		"es"				"Has ganado {1} creditos por sobrevivir {2} segundos en esta ronda."
+	}
+
+}
